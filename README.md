@@ -1,9 +1,7 @@
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="[![GitHub Stats](https://vercel.app)](https://github.com)" height="165" />
-  <img src="[![Top Langs](https://vercel.app)](https://github.com)" height="165" />
-  <img src="[![GitHub Streak](https://demolab.com)](https://git.io)" height="165" />
-</p>
+[![GitHub Stats](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com)
+[![GitHub Streak](https://demolab.com)](https://git.io)
 
 <!--
 **sbg3704/sbg3704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
